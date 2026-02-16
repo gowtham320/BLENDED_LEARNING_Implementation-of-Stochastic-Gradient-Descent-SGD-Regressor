@@ -21,7 +21,7 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 
 
 ## Program:
-^^^
+```
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import SGDRegressor
@@ -74,8 +74,13 @@ RegisterNumber:  25005013
 ```
 
 ## output:
-:
-![simple linear regression model for predicting the marks scored](sam.png)
+<img width="922" height="297" alt="image" src="https://github.com/user-attachments/assets/a7768d8d-5cf5-4add-8c9e-2e108df78aad" />
+<img width="1249" height="530" alt="Screenshot 2026-02-16 110849" src="https://github.com/user-attachments/assets/ca5316b0-a53f-4543-b14f-5fcb4f7737b7" />
+<img width="579" height="651" alt="Screenshot 2026-02-16 110819" src="https://github.com/user-attachments/assets/b3949666-6fc7-43b7-9f03-d3677195c497" />
+<img width="1332" height="389" alt="Screenshot 2026-02-16 110715" src="https://github.com/user-attachments/assets/2f4c176f-00cf-4427-ac34-37482b520ef9" />
+<img width="1099" height="612" alt="Screenshot 2026-02-16 110903" src="https://github.com/user-attachments/assets/8caf0c77-e31c-4e73-82e1-ded6e0c99f95" />
+
+
 
 
 ## Result:
